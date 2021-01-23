@@ -1,0 +1,37 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on 柚子</title>
+		<link>https://ziyoou.github.io/posts/</link>
+		<description>Recent content in Posts on 柚子</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>zh-CN</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Sat, 23 Jan 2021 00:00:00 +0000</lastBuildDate>
+		<atom:link href="https://ziyoou.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>第一篇</title>
+			<link>https://ziyoou.github.io/posts/first/</link>
+			<pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://ziyoou.github.io/posts/first/</guid>
+			<description>第一篇博客 哈哈哈哈哈</description>
+			<content type="html"><![CDATA[<p>第一篇博客
+哈哈哈哈哈</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Text</title>
+			<link>https://ziyoou.github.io/posts/text/</link>
+			<pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://ziyoou.github.io/posts/text/</guid>
+			<description>测试用。 by 柚子</description>
+			<content type="html"><![CDATA[<p>测试用。
+by 柚子</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
